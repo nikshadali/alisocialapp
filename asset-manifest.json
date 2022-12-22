@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/alisocialapp/static/css/main.e60a5594.css",
+    "main.js": "/alisocialapp/static/js/main.486b58be.js",
+    "index.html": "/alisocialapp/index.html",
+    "main.e60a5594.css.map": "/alisocialapp/static/css/main.e60a5594.css.map",
+    "main.486b58be.js.map": "/alisocialapp/static/js/main.486b58be.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e60a5594.css",
+    "static/js/main.486b58be.js"
+  ]
+}
