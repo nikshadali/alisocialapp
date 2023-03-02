@@ -41,7 +41,7 @@ function App() {
   };
   const router = createBrowserRouter([
     {
-      path: "/",
+      path: "/alisocialapp",
       element: (
         <ProtectedRouter>
           <Layout />
@@ -49,7 +49,7 @@ function App() {
       ),
       children: [
         {
-          path: "/",
+          path: "/alisocialapp",
           element: <Home />,
         },
 
