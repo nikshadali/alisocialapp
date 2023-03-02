@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/alisocialapp/static/css/main.e60a5594.css",
-    "main.js": "/alisocialapp/static/js/main.de4f0b3c.js",
+    "main.js": "/alisocialapp/static/js/main.79a7a7b4.js",
     "index.html": "/alisocialapp/index.html",
     "main.e60a5594.css.map": "/alisocialapp/static/css/main.e60a5594.css.map",
-    "main.de4f0b3c.js.map": "/alisocialapp/static/js/main.de4f0b3c.js.map"
+    "main.79a7a7b4.js.map": "/alisocialapp/static/js/main.79a7a7b4.js.map"
   },
   "entrypoints": [
     "static/css/main.e60a5594.css",
-    "static/js/main.de4f0b3c.js"
+    "static/js/main.79a7a7b4.js"
   ]
 }
