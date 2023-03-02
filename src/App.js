@@ -70,7 +70,7 @@ function App() {
   ]);
   return (
     <div>
-      <RouterProvider router={router} basename="alisocialapp" />
+      <RouterProvider router={router} basename="/alisocialapp" />
     </div>
   );
 }
