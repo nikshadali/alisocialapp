@@ -1,5 +1,5 @@
 import './Login.scss'
-import {Link} from 'react-router-dom'
+import {Link, Navigate} from 'react-router-dom'
 import { useContext } from 'react'
 import { AuthContext } from '../../Context/authContext'
 const Login = () => {
@@ -7,6 +7,7 @@ const Login = () => {
 
     const loginhandler = () =>{
         login()
+        
     }
   return (
     <div className='login'>

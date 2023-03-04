@@ -2,6 +2,7 @@ import'./Stories.scss'
 import { useContext } from 'react';
 import { AuthContext } from '../../Context/authContext';
 
+
 const Stories = () => {
     const {currentUser} = useContext(AuthContext)
     const stories = [
@@ -30,7 +31,7 @@ const Stories = () => {
   return (
     <div className='stories'>
           <div className="story">
-                <img src={currentUser.img} alt="post"/>
+                <img src='https://images.pexels.com/photos/13916254/pexels-photo-13916254.jpeg?auto=compress&cs=tinysrgb&w=1600&lazy=load' alt="post"/>
                 <span>{currentUser.name}</span>
                 <button>+</button>
             </div>

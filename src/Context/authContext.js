@@ -9,7 +9,8 @@ export const AuthContextProvider = ({ children }) => {
   );
 
   const login = () => {
-    setCurrentUser({ id: 1, name: "ali", img: "./img/ali-khan.jpg" });
+    setCurrentUser({ id: 1, name: "ali", img: "/img/ali-khan.jpg" });
+    
   };
 
   useEffect(() => {
